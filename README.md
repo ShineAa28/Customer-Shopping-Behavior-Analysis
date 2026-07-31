@@ -78,10 +78,10 @@ The dataset includes information related to:
 customer_shopping_behavior_analysis/
 │
 ├── README.md
-├── customer_shopping_data.csv
+├── customer_shopping_behavior_data.csv
 ├── customer_shopping_behavior_analysis.ipynb
 ├── customer_behavior_sql_queries.sql
-├── customer_shopping_behavior_dashboard.pbix
+├── customer_behavior_dashboard.pbix
 ├── customer_shopping_behavior_report.pdf
 ├── customer_shopping_behavior_presentation.pdf
 └── dashboard_preview.png
